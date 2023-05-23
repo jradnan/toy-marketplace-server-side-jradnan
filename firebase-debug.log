@@ -1,0 +1,28 @@
+[debug] [2023-05-23T01:53:15.386Z] ----------------------------------------------------------------------
+[debug] [2023-05-23T01:53:15.388Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\pc\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-05-23T01:53:15.389Z] CLI Version:   11.29.0
+[debug] [2023-05-23T01:53:15.389Z] Platform:      win32
+[debug] [2023-05-23T01:53:15.389Z] Node Version:  v17.4.0
+[debug] [2023-05-23T01:53:15.391Z] Time:          Tue May 23 2023 07:53:15 GMT+0600 (Bangladesh Standard Time)
+[debug] [2023-05-23T01:53:15.391Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-05-23T01:53:15.402Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-05-23T01:53:15.403Z] > authorizing via signed-in user (afridimhrj10@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\pc\ALL Project 2023\Assignment\toy-marketplace-server-side
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
